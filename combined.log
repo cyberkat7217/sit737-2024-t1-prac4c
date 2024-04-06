@@ -1,0 +1,23 @@
+{"level":"error","message":"Base is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"Base is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"Base is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and 3 received for exponentiation","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and 4 received for exponentiation","service":"calculate-service"}
+{"level":"info","message":"Parameters 10 and 10 received for addition","service":"calculate-service"}
+{"level":"error","message":"Base is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and 4 received for exponentiation","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and 4 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and 5 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 3 and 1 received for subtraction","service":"calculate-service"}
+{"level":"info","message":"Parameters 3 and 4 received for multiplication","service":"calculate-service"}
+{"level":"info","message":"Parameters 10 and 5 received for division","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and 5 received for exponentiation","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and 5 received for multiplication","service":"calculate-service"}
+{"level":"info","message":"Parameter 49 received for square root calculation","service":"calculate-service"}
+{"level":"info","message":"Parameters 20 and 6 received for modulo operation","service":"calculate-service"}
+{"level":"info","message":"Parameters 15 and 4 received for modulo operation","service":"calculate-service"}
+{"level":"info","message":"Parameters 8 and 2 received for modulo operation","service":"calculate-service"}
+{"level":"info","message":"Parameters 3 and 2 received for exponentiation","service":"calculate-service"}
+{"level":"info","message":"Parameter 44 received for square root calculation","service":"calculate-service"}
+{"level":"info","message":"Parameter 64 received for square root calculation","service":"calculate-service"}
+{"level":"info","message":"Parameters 15 and 4 received for modulo operation","service":"calculate-service"}
